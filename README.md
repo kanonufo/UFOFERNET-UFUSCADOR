@@ -17,7 +17,7 @@ que se puede utilizar para realizar diferentes tareas. </p> </b>
 
 <p> <b> No suba al TOTAL VIRUS. </p> </b>
 
-<p> <b> Uso: python UFOfernet.py nonfud_payload.py </p> </b>
+<p> <b> Uso: python UFOfernet.py payload.py </p> </b>
 
 <p> <b> Esto generará la carga útil de FUD. </p> </b>
 
